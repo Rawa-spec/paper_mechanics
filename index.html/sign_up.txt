@@ -1,0 +1,12 @@
+Intials:
+Last name:
+email:
+phone number:
+Age: 
+
+which day and time are you reserving for the hour?
+
+Thank you your interest in joining our classroom! We will contact you about your reservation as soon as possible!
+
+
+
