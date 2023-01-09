@@ -102,22 +102,16 @@ header li a {
 
 }
 
-
-
-
-
-
-
-
-
-footer > p {
-    width: 100%;
-    clear: both;
-    image-rendering: optimizeQuality;
+footer{
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
 }
+
 .social_media {
     height: 80px;
 	width: 80px;
-	background: rgb(229, 93, 9);
+    margin: 5px;
 	display: inline-block;
 }
