@@ -91,6 +91,18 @@ header li a {
     background-position: center ;
 }
 
+.section-3 .empty-section{
+    background-color: rgb(98, 1, 1);
+    padding: 50px;
+    color: white
+}
+
+.section-4 .empty-section{
+    background-color:white
+
+}
+
+
 
 
 
