@@ -8,8 +8,7 @@
 
 body{
     width:100%;
-        background-color: rgba(191, 24, 200, 0.301);
-    background-image: url("https://epjg58k4arp.exactdn.com/wp-content/uploads/2022/05/origami-stars-main-image-e1652471905940.jpg");
+
     background-size: cover;
     font-style: italic;
     font-family: Arial, Helvetica, sans-serif;
@@ -17,7 +16,7 @@ body{
 
 header{
     flex-direction: row;
-    background-color: purple;
+    background-color: rgb(98, 1, 1);
     justify-content: space-around;
     color: white;
 }
@@ -41,6 +40,58 @@ header a {
 header li a {
     text-decoration: underline;
 }
+
+.section {
+    min-height: 500px;
+    padding: 20px;
+    display: flex;
+    background-color: rgb(0, 0, 61);
+    flex-wrap: wrap;
+}
+.text-section{
+    background-color: white;
+    width: 50%;
+    padding: 50px;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.text-section h1, .text-section h2{
+    text-decoration: underline;
+  }
+
+.empty-section{
+    background-color: purple;
+    width: 50%;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.section-1{
+    background-color: rgb(0, 0, 61);
+}
+
+
+.section-1 .text-section h1{
+    text-decoration: underline;
+  }
+
+.section-1 .empty-section{
+        background-image: url("https://images.pexels.com/photos/1582782/pexels-photo-1582782.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+        background-position: center ;
+}
+
+.image{
+    width: 50%;
+    height: 50%;
+}
+
+.section-2 .empty-section{
+    background-image: url("https://images.pexels.com/photos/114977/pexels-photo-114977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-position: center ;
+}
+
+
 
 
 
