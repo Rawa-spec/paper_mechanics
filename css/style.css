@@ -1,3 +1,11 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive
+}
+
 body{
     width:100%;
         background-color: rgba(191, 24, 200, 0.301);
@@ -6,6 +14,39 @@ body{
     font-style: italic;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+header{
+    flex-direction: row;
+    background-color: purple;
+    justify-content: space-around;
+    color: white;
+}
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
+    font-size: 40px;
+}
+
+header a {
+    color:  white;
+    font-weight: bolder;
+    text-decoration:  none;
+    padding: 10px;
+}
+
+header li a {
+    text-decoration: underline;
+}
+
+
+
+
+
+
 footer > p {
     width: 100%;
     clear: both;
