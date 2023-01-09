@@ -9,7 +9,7 @@ This website features a service for a class that teaches origami. It is for all 
 ## Features
 
 ### Navigation Bar
-
+![Responsice Mockup](assets/nav3.png)
 A red navigation bar is featured on the site that contains the following links to sections on the site:
 
 - Home
@@ -19,7 +19,7 @@ A red navigation bar is featured on the site that contains the following links t
 
 
 ### Footer Section
-
+![Responsice Mockup](assets/footer3.png)
 The footer section contains links to social accounts (facebook and twitter). The purpose is to give the user the option to engage with the company outside the website.
 
 ### Background image
@@ -62,9 +62,9 @@ This page will allow the user to submit their information in order to enquire ab
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 - Screen compatibility 
-    - I have tested the screen layout of the website, on the 'am i responsive' website.( https://ui.dev/amiresponsive)
+    - I have tested the screen layout of the website, on the 'am i responsive' [website]( https://ui.dev/amiresponsive)
 - Performance
-    - The site performace was tested on lighthouse and received a score of 84.[website](). 
+    - The site performace was tested on lighthouse and received a score of 84.[website](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Frawa-spec.github.io%2Fpaper_mechanics%2F%23contacts&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext). 
     ![Performance on lighthouse](assets/performance3.png)
 
 
