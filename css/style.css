@@ -115,3 +115,23 @@ footer{
     margin: 5px;
 	display: inline-block;
 }
+
+@media (max-width:600px){
+
+    .image{
+        width: 150px;
+        height: 150px;
+    }
+
+    .text-section{
+        width: 100%%;
+        min-width: 100%;
+
+    }
+
+    .empty-section{
+        width: 100%%;
+        min-width: 100%;
+        min-height: 100px
+    }
+}
